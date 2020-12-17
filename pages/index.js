@@ -9,7 +9,7 @@ const Home = () => {
 			</Head>
 			<div>
 				{/* Content goes here */}
-				<img src="/gabcodes.png" width="200px" height="auto"></img>
+				<img src="/gabcodes.png" width="250" height="auto"></img>
 			</div>
 		</div>
 	);
