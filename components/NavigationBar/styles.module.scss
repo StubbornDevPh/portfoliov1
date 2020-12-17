@@ -1,0 +1,18 @@
+.brandImage {
+	width: 100px;
+}
+.brandText {
+	font-size: x-large;
+	// -webkit-text-stroke: 1.5px black;
+	font-family: "MS Comic Sans", "Comic Sans", cursive;
+	font-weight: bolder;
+	font-style: italic;
+	color: black;
+	text-indent: 5px;
+	margin-top: 10px;
+}
+.brandContainer {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}

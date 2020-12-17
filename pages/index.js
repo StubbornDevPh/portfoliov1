@@ -1,4 +1,5 @@
 import Head from "next/head";
+import NavigationBar from "../components/NavigationBar/NavigationBar";
 
 const Home = () => {
 	return (
@@ -9,7 +10,7 @@ const Home = () => {
 			</Head>
 			<div>
 				{/* Content goes here */}
-				<img src="/gabcodes.png" width="250" height="auto"></img>
+				<NavigationBar />
 			</div>
 		</div>
 	);
